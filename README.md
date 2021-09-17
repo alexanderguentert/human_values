@@ -9,3 +9,6 @@ In relation to religiousness the theory predicts that correlations with the valu
 
 A part of the Thesis was to test if these hypothesis can be confirmed for certain groups in German population (Protestants, Catholics, Atheists, East and West).
 Using data from the European Social Survey (Round 6): https://www.europeansocialsurvey.org/
+
+
+A Version of the notebook where the plot are rendered correctly can be found here: https://nbviewer.jupyter.org/github/alexanderguentert/human_values/blob/main/masterarbeit.ipynb
